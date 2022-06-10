@@ -1,0 +1,27 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elsid01/forkify.git"
+  },
+  "author": "Ely Mbaye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elsid01/forkify/issues"
+  },
+  "homepage": "https://github.com/elsid01/forkify#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.0",
+    "parcel": "^2.6.0"
+  },
+  "dependencies": {
+    "sass": "^1.52.3"
+  }
+}
